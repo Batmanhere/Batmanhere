@@ -15,6 +15,6 @@ I currently working in Cognizant as a Engineer
 - **Scheduler & Orchestrator:** Autosys,AirFlow
 
 - ### Find me 
-  [![dev.to badge](https://img.shields.io/badge/linkedin-VinaySapare-%1500a7128?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhinavsubramanian007)
+  [![dev.to badge](https://img.shields.io/badge/linkedin-AbhinavSubramanian-%1500a7128?style=flat&logo=linkedin)](https://www.linkedin.com/in/abhinavsubramanian007)
 - 👨‍💻 All of my projects are available  [here](https://github.com/Batmanhere?tab=repositories)
 - 📫 How to reach me:  [subramanianabhinav2000@gmail.com](mailto:subramanianabhinav2000@gmail.com)
